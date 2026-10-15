@@ -32,3 +32,7 @@ See [Configuring Eslint](http://eslint.org/docs/user-guide/configuring) on [esli
 
 * `no-jsdoc` - forbids the use of JSDoc comments (fixable)
 
+
+## Changelog
+
+Run `npm run changelog -- <version>` with Node.js 24 or 26. Dependency updates are collapsed into version chains, highest-version updates, or identical grouped entries.
